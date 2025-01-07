@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/aunt/lacal
+Content-Type: application/json
+
+{
+    "identifier" : "Woranat1",
+    "password" : "Kpp12345"
+}
